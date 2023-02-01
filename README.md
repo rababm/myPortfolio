@@ -25,6 +25,12 @@ The application used about 100,000 business rules to reach a classification.
 To simplify the development of business rules, I presented a prototype implemented using the Python programming language that showcases a modeling approach using **supervised learning** and regular expressions.
 
 ## Acedemic projects : 2015 - 2017
+**Course: Techniques and Applications of Natural Language Processing** -- Laval University, Quebec city, Canada (November 2016)
 
+- Implemented two classification algorithms (**K-NNs** and **logistic regression**) using **Python** to classify the type of questions and compared their performance in the preprocessing of data.
 
+**Course: Metaheuristics** -- National Institute of Statistics and Applied Economics, Rabat, Morocco
+(September 2015)
 
+- Studied and designed a genetic algorithm for pathfinding in a maze
+- Programmed the **genetic algorithm** for pathfinding in a maze using Visual Basic for Applications
