@@ -29,8 +29,7 @@ To simplify the development of business rules, I presented a prototype implement
 
 - Implemented two classification algorithms (**K-NNs** and **logistic regression**) using **Python** to classify the type of questions and compared their performance in the preprocessing of data.
 
-**Course: Metaheuristics** -- National Institute of Statistics and Applied Economics, Rabat, Morocco
-(September 2015)
+**Course: Metaheuristics** -- National Institute of Statistics and Applied Economics, Rabat, Morocco (September 2015)
 
 - Studied and designed a genetic algorithm for pathfinding in a maze
 - Programmed the **genetic algorithm** for pathfinding in a maze using Visual Basic for Applications
