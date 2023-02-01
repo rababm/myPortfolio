@@ -1,5 +1,3 @@
-# Welcome to my artificial intelligence projects portflolio
-
 ## Hackerrank solved challenges : [Here's my profile](https://www.hackerrank.com/moubine_rabab)
 
 **Six solved challenges**
