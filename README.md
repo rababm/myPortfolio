@@ -7,11 +7,12 @@ Programming language : Python
 
 Libraries : sklearn - scipy - numpy - pandas - matplotlib
 
-- [Basic Statistics Warmup](https://www.hackerrank.com/rest/contests/master/challenges/stat-warmup/hackers/moubine_rabab/download_solution)
-- [Polynomial Regression: Office Prices](https://www.hackerrank.com/rest/contests/master/challenges/predicting-office-space-price/hackers/moubine_rabab/download_solution)
-- [The Best Aptitude Test](https://www.hackerrank.com/rest/contests/master/challenges/the-best-aptitude-test/hackers/moubine_rabab/download_solution)
-- [Stack Exchange Question Classifier](https://www.hackerrank.com/rest/contests/master/challenges/stack-exchange-question-classifier/hackers/moubine_rabab/download_solution)
-- [Quora Answer Classifier](https://www.hackerrank.com/rest/contests/master/challenges/quora-answer-classifier/hackers/moubine_rabab/download_solution)
+- Polynomial Regression: Office Prices: [Problem](https://www.hackerrank.com/challenges/predicting-office-space-price/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/PolynomialRegressionOfficePrices.ipynb)
+- Stack Exchange Question Classifier: [Problem](https://www.hackerrank.com/challenges/stack-exchange-question-classifier) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/StackExchangeQuestionClassifier.ipynb)
+- Quora Answer Classifier: [Problem](https://www.hackerrank.com/challenges/quora-answer-classifier) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/QuoraAnswerClassifier.ipynb)
+- Basic Statistics Warmup: [Problem](https://www.hackerrank.com/challenges/stat-warmup/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/BasicStatisticsWarmup.ipynb)
+- The Best Aptitude Test: [Problem](https://www.hackerrank.com/challenges/the-best-aptitude-test/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/The%20Best%20Aptitude%20Test.ipynb)
+- Computing the correlation: [Problem](https://www.hackerrank.com/challenges/computing-the-correlation) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/ComputingTheCorrelation.ipynb)
 
 ## Professional experience : 2017
 **Internship at CNESST (Quebec city)**
