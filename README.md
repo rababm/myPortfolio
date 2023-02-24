@@ -1,5 +1,8 @@
 # Welcome to my artificial intelligence portfolio
-## Hackerrank solved challenges : [Here's my profile](https://www.hackerrank.com/moubine_rabab)
+
+## - Actually preparing the IBM machine learning professional certificate
+
+## - Hackerrank solved challenges : [Here's my profile](https://www.hackerrank.com/moubine_rabab)
 
 **Six solved challenges**
 
@@ -7,14 +10,14 @@ Programming language : Python
 
 Libraries : sklearn - scipy - numpy - pandas - matplotlib
 
-- Polynomial Regression: Office Prices: [Problem](https://www.hackerrank.com/challenges/predicting-office-space-price/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/PolynomialRegressionOfficePrices.ipynb)
+## - Polynomial Regression: Office Prices: [Problem](https://www.hackerrank.com/challenges/predicting-office-space-price/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/PolynomialRegressionOfficePrices.ipynb)
 - Stack Exchange Question Classifier: [Problem](https://www.hackerrank.com/challenges/stack-exchange-question-classifier) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/StackExchangeQuestionClassifier.ipynb)
 - Quora Answer Classifier: [Problem](https://www.hackerrank.com/challenges/quora-answer-classifier) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/QuoraAnswerClassifier.ipynb)
 - Basic Statistics Warmup: [Problem](https://www.hackerrank.com/challenges/stat-warmup/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/BasicStatisticsWarmup.ipynb)
 - The Best Aptitude Test: [Problem](https://www.hackerrank.com/challenges/the-best-aptitude-test/problem) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/The%20Best%20Aptitude%20Test.ipynb)
 - Computing the correlation: [Problem](https://www.hackerrank.com/challenges/computing-the-correlation) -- [Submission](https://github.com/rababm/hackerrankChallenges/blob/main/ComputingTheCorrelation.ipynb)
 
-## Professional experience : 2017
+## - Professional experience : 2017
 **Internship at CNESST (Quebec city)**
 - Analyze the possibility of applying the principles of artificial intelligence to redesign an application
 - Elaborate a prototype of a question-answer system that allows to implement the suggested solution using Python
@@ -25,7 +28,7 @@ This solution classifies employers into units based on the activities carried ou
 The application used about 100,000 business rules to reach a classification.
 To simplify the development of business rules, I presented a prototype implemented using the Python programming language that showcases a modeling approach using **supervised learning** and regular expressions.
 
-## Acedemic projects : 2015 - 2017
+## - Acedemic projects : 2015 - 2017
 **Course: Techniques and Applications of Natural Language Processing** -- Laval University, Quebec city, Canada (November 2016)
 
 - Implemented two classification algorithms (**K-NNs** and **logistic regression**) using **Python** to classify the type of questions and compared their performance in the preprocessing of data.
